@@ -1015,10 +1015,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   portal: {fileID: 762427195}
-  tetik: {fileID: 0}
-  baskettopu: {fileID: 0}
-  tpm2: {fileID: 0}
-  tpm3: {fileID: 0}
+  tetik: {fileID: 1019277341}
+  baskettopu: {fileID: 3087571812052349061}
+  tpm2: {fileID: 688085904}
+  tpm3: {fileID: 273300982}
 --- !u!1 &762427195 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4617036660772024948, guid: 52c7d057cba585641bb68312c10d7791,
@@ -1291,7 +1291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fdc49f5957dfa424c8a50186c5869a58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sahneAdi: Gelecek
+  sahneAdi: outpost with snow
 --- !u!65 &1019277344
 BoxCollider:
   m_ObjectHideFlags: 0

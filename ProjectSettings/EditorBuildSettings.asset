@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Gunumuz.unity
     guid: e029dff24cd9693479faf7a2a7fc5dc0
   - enabled: 1
-    path: Assets/Scenes/Gelecek.unity
-    guid: bee75c938b61a45478158da67d40cba2
+    path: Assets/Sci-Fi Styled Modular Pack/Example scenes/outpost with snow.unity
+    guid: e8cf1d29775c7e24f9dd35148a6437c0
+  - enabled: 1
+    path: Assets/Scenes/herseyBirilluzyon.unity
+    guid: 7b36cc9f349ff4b4a92b15fdcfbcc47c
   m_configObjects: {}
