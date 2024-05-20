@@ -10,6 +10,7 @@ public class YayMekanigi : MonoBehaviour
     public Transform biz;
     public GameObject ben;
     public GameObject isik;
+    public bool kontrolTMP = false;
 
     private void Update()
     {
@@ -30,6 +31,7 @@ public class YayMekanigi : MonoBehaviour
             this.transform.position = ben.transform.position;
             this.transform.rotation = ben.transform.rotation;
             Debug.Log("Razor adam.");
+            kontrolTMP = true;
         }
     }
 }

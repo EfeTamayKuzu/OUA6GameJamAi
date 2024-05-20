@@ -11,8 +11,8 @@ public class AlveBirakBasit : MonoBehaviour
     public GameObject KampAtesi;
     public GameObject isaret;
     public GameObject Portal;
-    private bool b = false;
-    private bool adam = false;
+    public bool b = false;
+    public bool adam = false;
     public string sahneismi;
 
     private void Start()

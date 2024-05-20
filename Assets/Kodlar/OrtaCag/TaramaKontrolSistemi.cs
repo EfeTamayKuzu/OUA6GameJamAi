@@ -6,6 +6,7 @@ public class TaramaKontrolSistemi : MonoBehaviour
 {
     public GameObject emptyObject; // Empty objemizi buradan sürükleyip býrakacaðýz
     public GameObject cubeObject; // Küp objemizi buradan sürükleyip býrakacaðýz
+    public bool kontroltpm2 = false;
 
     void Update()
     {
@@ -24,6 +25,7 @@ public class TaramaKontrolSistemi : MonoBehaviour
         if (allInactive)
         {
             cubeObject.SetActive(true); // Küpün SetActive'ini true yap
+            kontroltpm2 = true;
         }
         else
         {
